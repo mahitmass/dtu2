@@ -302,7 +302,8 @@ lsof -ti:3000 | xargs kill -9
 
 ## 👥 Authors & Acknowledgments
 
-- **Lead Developer & Hardware Design:** [Mahit Agarwal](https://github.com/mahitmass) (`mahit.anuragagarwal@gmail.com`)
+- **Lead By:** Dwij Bhardwaj
+-  **With Team:** Harshit Kumar, Akshar Soni, Sarvendra Balraj and [Mahit Agarwal](https://github.com/mahitmass)
 - **Institution / Project:** DTU Smart Healthcare & Bio-Telemetry Initiative
 
 ---
